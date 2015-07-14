@@ -72,7 +72,7 @@ i. Public record of voting eligibility
 
 > > 2. Should a majority be unreachable, the Mayor, acting as final arbiter, will issue a binding resolution without opportunity for appeal.
 
-> d. The public record shall consist of, for each eligible voter, their IGN, their Redditor account, and the date on which eligibility was confirmed. This record shall be contained within the most recent [Voter Eligibility] thread, as copied from the previous most recent thread. 
+> d. The public record shall consist of, for each eligible voter, their IGN, their Redditor account, and the date on which the period of eligibility of an individual began or begins, and when it ends. This record shall be contained within the most recent [Voter Eligibility] thread, as copied from the previous most recent thread. 
 
 > e. [removed](http://www.reddit.com/r/MtAugusta/comments/36g9jl/bill_result_shortening_voter_eligibility/)
 
@@ -82,7 +82,9 @@ ii. Survivability of voter eligibility
 
 > a. For a citizen, once voting eligibility is confirmed, it shall survive for thirty (30) days following confirmation. During that period, reconfirmation is unnecessary, even if additional [Voter Eligibility] threads are posted.
 
-> b. After thirty (30) days, a citizen’s voting eligibility ends, pending re-confirmation.
+> b. Citizens holding voter eligibility and meeting voter eligibility requirements may re-confirm their eligibility in a [Voter Eligibility] thread. The renewal comes into effect immediately upon re-confirmation.
+
+> c. After thirty (30) days, a citizen’s voting eligibility ends.
 
 iii. Requirements for voter eligibility
 
@@ -100,7 +102,13 @@ iii. Requirements for voter eligibility
 
 > > 2. Once declared and confirmed by a Judge, all voting eligibility for alternate accounts shall be expunged, and eligibility shall begin for the named Redditor/IGN pair immediately.
 
-iv. Mayor as final arbiter in voter eligibility
+iv. Gaining voter eligibility
+
+> a. An individual who meets the requirements for voter eligibility, but does not possess it, will gain voter eligibility seven (7) days after posting proof of activity on an active [Voter Eligibility] thread, as outlined by Article I Section A iii. c.
+
+> b. The individual must fulfil the requirements outlined by Article I Section A iii. for the entire period of seven (7) days for voter eligibility to be granted.
+
+v. Mayor as final arbiter in voter eligibility
 
 >a. In all disputes concerning voter eligibility that cannot be resolved by the judges, the Mayor is the final arbiter, with no opportunity for further appeal.
 
@@ -439,9 +447,14 @@ xviii. http://www.reddit.com/r/MtAugusta/comments/3b8bls/bill_result_legalizing_
 
 xix. http://www.reddit.com/r/MtAugusta/comments/3bo6cf/bill_result_day_of_dan/
 
+xx. https://www.reddit.com/r/MtAugusta/comments/3cct0e/bill_result_judicial_refinement_act/
+
+xxi. https://www.reddit.com/r/MtAugusta/comments/3cyis9/bill_result_voting_eligibility_reform_act/
+
 ---
 Changelog
 ---
+7/12/2015 - [Voting Eligibility Reform Act](https://www.reddit.com/r/MtAugusta/comments/3cyis9/bill_result_voting_eligibility_reform_act/)
 
 7/7/2015 - [Judicial Refinement Act](https://www.reddit.com/r/MtAugusta/comments/3cct0e/bill_result_judicial_refinement_act/)
 
