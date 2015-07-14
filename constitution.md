@@ -213,21 +213,21 @@ ii. The position of Judge shall be an elected position, term set to three months
 
 >a. The Judge will have no power except to administrate the actual court proceedings and assign a time to be served.
 
->b. Judge will keep a detailed account of the trial, through use of screenshots, evidence, and testimony for posterity. When the case is concluded, a full record of the event will be put on a subreddit with links to evidence for all the world to see.
+> b. The Judge will keep a detailed account of the trial, and run all court cases through /r/mtaugustajustice following the procedure outlined under Article III Subsection C. If a case in handled in-game, a record must be posted on /r/mtaugustajustice.
 
->c. The Judge will maintain composure, and will remain neutral in Augustan affairs, and will divest themselves of any political affiliations for the duration of their term.
+> c. The Judge will maintain composure, will be committed to impartiality, and will remove themselves from positions of official power in any foreign organization, nation, or other entity composed of multiple individuals.
 
->d. A Judge may resign through a public post on /r/MtAugusta stating the same. The process to elect a new judge to fill the gap as described by Article I, Part B must begin with 14 days of a resignation post (although the requirement of item I.B.ii.b can be suspended if within 1 month of a ratified and complete prior Voter Eligibility thread).
+> d. A Judge may resign by posting their resignation publicly on /r/MtAugusta. The process to elect a new judge to fill the gap as described by Article I, Part B must begin with 14 days of a resignation post.
 
 >e. A Judge must be a citizen of Mount Augusta, as described by Article I, Part A, subpart iii, or as otherwise defined by law.
 
 iii. The Bailiff will be appointed by the Judge, and may appoint secondaries as necessary.	
 
->a. The Bailiff will keep order in the court during proceedings. Any disturbance in the court will be seen as an offense against the accused, and the provocateur will be pearled for the remainder of the trial.
+>a. The Bailiff will keep order in the court during in-game proceedings. Any disturbance in the court will be seen as an offense against the accused, and the provocateur will be pearled for the remainder of the trial.
 
->b. The Bailiff will also take charge of the accused’s pearl (if criminal case) and keep it during proceedings. The Bailiff will also have one of 3 accesses to the vault. The other being the mayor, and the judge.
+>b. The Bailiff may petition for access to the Mt. Augusta vault, to handle and process pearls.
 
->c.The Bailiff will relinquish his position upon request of the Judge.
+>c.The Bailiff will relinquish his position upon the request of at least two judges.
 
 >d. A Bailiff must be a citizen of Mount Augusta, as described by Article I, Part A, subpart iii, or as otherwise defined by law.
 
@@ -239,11 +239,11 @@ iv. Limitations of positions
 
 > c. Bailiffs cannot act as Bailiff if they are either defendant or plaintiff in a trial. It is the duty of the presiding judge to appoint a temporary Bailiff for the duration of the trial, if one is required.
 
-> d. Judges must declare potential conflicts of interest. It is the responsibility of the other judges to determine if any potential conflict of interest is sufficient to remove impartiality, and any ruling of 2 or more judges that a judge cannot preside over a case due to conflict of interest is sufficient cause to prevent that judge from presiding over the case.
+> d. Judges must declare potential conflicts of interest. If the court, through /r/mtaugustajustice is petitioned by the defendant or the plaintiff, it is the responsibility of the other judges to determine if any potential conflict of interest is sufficient to remove impartiality of the presiding Judge, and any ruling of 2 or more Judges that a Judge cannot preside over a case due to conflict of interest is sufficient cause to prevent that Judge from presiding over the case.
 
-> e. In the case that all Judges are simultaneously either defendants or plaintiffs, it shall be the duty of the Mayor to adjudicate the trial. As highest arbitrator, there can be no appeal to such a trial.
+> e. In the case that all Judges are simultaneously either defendants, plaintiffs, or have a conflict of interest it shall be the duty of the Mayor to adjudicate the trial. As highest arbitrator, there can be no appeal to such a trial, unless it should be declared a mistrial as per the process laid out in Article 3, Part D, subpart ii.
 
-> f. Should the mayor and the judges all be plaintiffs and/or defendants in a trial, a temporary, impartial third party Judge must be voted in by 3/4 popular vote (following the rules outlined in Article I, section B, part i), with the duty to preside over the trial only, after which they will cease to act as Judge.
+> f. Should the mayor and the judges all be plaintiffs, defendants, or have a conflict of interest in a trial, a temporary, impartial third party Judge must be voted in by 3/4 popular vote (following the rules outlined in Article I, section B, part i), with the duty to preside over the trial only, after which they will cease to act as Judge.
 
 > g. As an exception to the above, if all members of Mt. Augusta are either Plaintiff or Defendant (such as People vs. defendant cases) then the current Judges may preside as normal, subject to these limitations.
 
@@ -442,6 +442,8 @@ xix. http://www.reddit.com/r/MtAugusta/comments/3bo6cf/bill_result_day_of_dan/
 ---
 Changelog
 ---
+
+7/7/2015 - [Judicial Refinement Act](https://www.reddit.com/r/MtAugusta/comments/3cct0e/bill_result_judicial_refinement_act/)
 
 6/30/2015 - [Day of Dan](http://www.reddit.com/r/MtAugusta/comments/3bo6cf/bill_result_day_of_dan/)
 
